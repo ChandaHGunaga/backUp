@@ -1,0 +1,11 @@
+.studentList-container {
+    position: fixed;
+    left: 338px;
+    top: 109.274px;
+    border-radius: 2.5em 0 0 0;
+    right: 0;
+    height: 100%;
+    background-color: #f9f9f9;
+    overflow: auto;
+    padding: 2rem;
+}
